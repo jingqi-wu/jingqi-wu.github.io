@@ -5,12 +5,11 @@ category: manuscripts
 permalink: /publication/2023-10-27-paper-title-number-1
 excerpt: ''
 date: 2023-10-27
-venue: 'Journal 1'
+venue: 'October 27'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://dl.acm.org/doi/10.1145/3581783.3611878'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-⚫ Developed a video player program that can play multiple videos in multiple windows, allowing users to actively switch the main window for video playback. Additionally, this program could be able to capture the timeline of when users switch video windows and save the relevant data locally.
-⚫ Organized the obtained data and used it for training a model that can learn from different users' data. This will enable the model to generate edited videos based on the characteristics of different users.
-⚫ Connected the video player's input source to the cameras in school classrooms via IP addresses. The program can automatically edit the lecture video by switching camera angles in the classroom.
+⚫ Developed a video player program that can play multiple videos in multiple windows, allowing users to actively switch the main window for video playback. Additionally, this program could be able to capture the timeline of when users switch video windows and save the relevant data locally.\n
+⚫ Organized the obtained data and used it for training a model that can learn from different users' data. This will enable the model to generate edited videos based on the characteristics of different users.\n
+⚫ Connected the video player's input source to the cameras in school classrooms via IP addresses. The program can automatically edit the lecture video by switching camera angles in the classroom.\n
