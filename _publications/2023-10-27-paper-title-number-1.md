@@ -1,10 +1,14 @@
 ---
 title: "A Reinforcement Learning-Based Automatic Video Editing Method Using the Knowledge from Vision-Language Model"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-10-27-paper-title-number-1
+excerpt: ''
 date: 2023-10-27
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://dl.acm.org/doi/10.1145/3581783.3611878'
+venue: 'Journal 1'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+'https://dl.acm.org/doi/10.1145/3581783.3611878'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 ⚫ Developed a video player program that can play multiple videos in multiple windows, allowing users to actively switch the main window for video playback. Additionally, this program could be able to capture the timeline of when users switch video windows and save the relevant data locally.
