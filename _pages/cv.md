@@ -11,54 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Information Systems, Boston University
+* B.S. in Computer Science, Chinese University of Hong Kong, Shenzhen
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jul. 2022 – Sep. 2022: Software Engineer of Display Technology Group - Xiaomi Corporation in Shenzhen, Guangdong, China
+  * Proficient in the Android Surface display framework.
+  * Responsible for the development and maintenance of the Native framework's drivers and software.
+  * As a group member of a lag issue caused by the VSync thread, refined the rendering pipeline using multi-threading techniques, and improved the lag issue, restoring the refresh rate from around 30 to the normal value of 120.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research experience
+======
+* Jan. 2025 – Present: Research Assistant - Boston University, Boston, MA
+  * Security of SmartDeviceLink (SDL) in Automotive Systems.
+  * Deployed SDL Core on Ubuntu, and developed an Android App using the SDL to connect mobile and in-vehicle systems.
+  *	Developed software under the Xposed framework to hook third-party applications for security detection.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Sep. 2022 – Jun. 2023: Research Assistant - Chinese University of Hong Kong, Shenzhen
+  * A Reinforcement Learning-Based Automatic Video Editing Method Using the Knowledge from the Vision-Language Model.                                                                 
+  *	The algorithm integrates RL and VLMs to enhance general video editing beyond scene-specific methods
+  *	Developed software with Python to collect training data from multiple volunteers to train personalized models.
+  *	Deployed the model on the Ubuntu server, and developed both server-side and client-side software with Python.
+  *	Decode the monitor videos’ RTSP flows via IP addresses, allowing the server to control the client’s video window.
+
+* Jun. 2022 – Sep. 2022: Participant - Chinese University of Hong Kong, Shenzhen
+  * Development of reforming Autonomous Sailboat - Interest-Based Research Activity                                                                            
+  *	With the Arduino platform (C++), accelerometers, and other sensors, the sailboat automatically adjusted its sailing direction.
+  *	Flask for the front end, through a Wi-Fi module, allowed manual control of the sailboat's sail angle and motor speed.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming Languages: Python (Best), C++, Java and Java Script (Familiar), MATLAB (Well), Verilog (Good)
+* Database and data analysis Tools: MySQL, PostgreSQL (Best), Excel, Pandas, NumPy (Familiar)
+* Framework and Platforms: Node.js, HTML & CSS (Familiar), jQuery, Flask (Well)
+* Languages: Mandarin (Native), English (Fluent)
