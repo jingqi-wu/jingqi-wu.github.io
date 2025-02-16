@@ -30,13 +30,13 @@ Research experience
 
 * Sep. 2022 – Jun. 2023: Research Assistant - Chinese University of Hong Kong, Shenzhen
   * A Reinforcement Learning-Based Automatic Video Editing Method Using the Knowledge from the Vision-Language Model.                                                                 
-  *	The algorithm integrates RL and VLMs to enhance general video editing beyond scene-specific methods
+  *	The algorithm integrates RL and VLMs to enhance general video editing beyond scene-specific methods.
   *	Developed software with Python to collect training data from multiple volunteers to train personalized models.
   *	Deployed the model on the Ubuntu server, and developed both server-side and client-side software with Python.
   *	Decode the monitor videos’ RTSP flows via IP addresses, allowing the server to control the client’s video window.
 
 * Jun. 2022 – Sep. 2022: Participant - Chinese University of Hong Kong, Shenzhen
-  * Development of reforming Autonomous Sailboat - Interest-Based Research Activity                                                                            
+  * Development of reforming Autonomous Sailboat - Interest-Based Research Activity.                                                                            
   *	With the Arduino platform (C++), accelerometers, and other sensors, the sailboat automatically adjusted its sailing direction.
   *	Flask for the front end, through a Wi-Fi module, allowed manual control of the sailboat's sail angle and motor speed.
 
@@ -46,3 +46,5 @@ Skills
 * Database and data analysis Tools: MySQL, PostgreSQL (Best), Excel, Pandas, NumPy (Familiar)
 * Framework and Platforms: Node.js, HTML & CSS (Familiar), jQuery, Flask (Well)
 * Languages: Mandarin (Native), English (Fluent)
+
+You can also read my CV here: [Jingqi Wu's curriculum vitae](../assets/curriculum_vitae_of_Jingqi_Wu.pdf).
